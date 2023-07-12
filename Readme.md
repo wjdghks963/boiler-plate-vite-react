@@ -42,26 +42,26 @@ Interaction Custom : [Styled-Components](https://styled-components.com/)
 
 ## Template에서 추가된 패키지 & 파일
 
-> 1. .prettierrc
+1. .prettierrc
 
 >    [prettier playground](https://prettier.io/playground/)
 
-> 2. TS Path Alias
+2. TS Path Alias
 
 >    Example -> tsconfig.json 내의 Path Alias Example 참조
 
-> 3. Global Types
+3. Global Types
 
 >    전역 타입 설정은 vite-env.d.ts 에서 한다
 
-> 4. 폴더 구조
+4. 폴더 구조
 
 >    page(페이지), component(컴포넌트), utils(유틸리티), store(상태관리)
 
-> 5. [Router dom (Browser Router)](https://reactrouter.com/en/main/routers/create-browser-router)
+5. [Router dom (Browser Router)](https://reactrouter.com/en/main/routers/create-browser-router)
 
 >    main.tsx 라우터(rouet.tsx) 적용
 
-> 6. 상태관리
+6. 상태관리
 
 >    Redux Tool Kit을 사용하고 logger 포함시킴
