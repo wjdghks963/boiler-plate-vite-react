@@ -60,7 +60,7 @@ Interaction Custom : [Styled-Components](https://styled-components.com/)
 
 5. [Router dom (Browser Router)](https://reactrouter.com/en/main/routers/create-browser-router)
 
->    main.tsx 라우터(rouet.tsx) 적용
+>    main.tsx 라우터(route.tsx) 적용
 
 6. 상태관리
 
